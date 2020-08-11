@@ -1,6 +1,4 @@
-# Project Title
-
-Console Based Image Compressor
+# Console Based Image Compressor
 
 ---
 ## Requirements
