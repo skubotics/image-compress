@@ -1,8 +1,13 @@
 # Console Based Image Compressor
 
+## How to Use?
+
+Place your images to be compressed in the `images` folder and execute the `ic.js` file to get the compressed images in the `compressed-images` folder.
+Follow the menu questions asked in the console to choose file type and compression rate according to your use.
+
 ## Requirements
 
-For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
+For development, you will only need Node.js and NPM installed in your environement.
 
 ### Node
 - #### Node installation on Windows
@@ -31,4 +36,9 @@ If the installation was successful, you should be able to run the following comm
 If you need to update `npm`, you can make it using `npm`! Cool right? After running the following command, just open again the command line and be happy.
 
     $ npm install npm -g
+    
+For installing the project dependencies run the command in your project directory where the package.json is located.
+
+    $ npm i
+    
 
