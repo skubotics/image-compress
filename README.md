@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/skubotics/image-compress" target="_blank"><h2 align="center">Image Compressor 🗜️</h2></a>
     <br />
-    <br />
     <p align="center"><strong>A Simple Console Based Image Compressor Application</strong></p>
     <br />
     <p align="center">💻 Made with Node.JS 💻</p>
