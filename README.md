@@ -1,4 +1,16 @@
-# Console Based Image Compressor
+<p align="center">
+  <a href="https://github.com/skubotics/image-compress" target="_blank"><h2 align="center">Image Compressor 🗜️</h2></a>
+    <br />
+    <p align="center"><strong>A Simple Console Based Image Compressor Application</strong></p>
+    <br />
+    <p align="center">💻 Made with Node.JS 💻</p>
+    <br />
+</p>
+
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Friendly-blueviolet?style=for-the-badge)](CONTRIBUTING.md)
+[![Pull Requests](https://img.shields.io/github/issues-pr/skubotics/image-compress?label=Pull%20Requests&style=for-the-badge)](https://github.com/skubotics/image-compress/pulls)
+[![Issues](https://img.shields.io/github/issues/skubotics/image-compress?color=db0000&label=Issues&style=for-the-badge)](https://github.com/skubotics/image-compress/issues)
+[![Contributors](https://img.shields.io/github/contributors/skubotics/image-compress?color=yellow&style=for-the-badge)](https://github.com/skubotics/image-compress/graphs/contributors)
 
 ## How to Use?
 
